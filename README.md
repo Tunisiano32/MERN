@@ -1,1 +1,2 @@
-# MERN
+# Visit Share
+Picture sharing platform.
